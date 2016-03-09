@@ -1,7 +1,7 @@
-package com.wakaleo.gameoflife.webtests.controllers;
+package wakaleo.gameoflife.webtests.controllers;
 
-import com.wakaleo.gameoflife.webtests.beans.GameBean;
-import com.wakaleo.gameoflife.webtests.beans.HomeBean;
+import wakaleo.gameoflife.webtests.beans.GameBean;
+import wakaleo.gameoflife.webtests.beans.HomeBean;
 import javax.servlet.http.HttpServletRequest;
 
 import org.junit.Test;

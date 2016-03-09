@@ -1,4 +1,4 @@
-package com.wakaleo.gameoflife.webtests.beans;
+package wakaleo.gameoflife.webtests.beans;
 
 import com.wakaleo.gameoflife.domain.Universe;
 import java.io.IOException;

@@ -1,6 +1,6 @@
-package com.wakaleo.gameoflife.webtests.controllers;
+package wakaleo.gameoflife.webtests.controllers;
 
-import com.wakaleo.gameoflife.webtests.beans.GameBean;
+import wakaleo.gameoflife.webtests.beans.GameBean;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
