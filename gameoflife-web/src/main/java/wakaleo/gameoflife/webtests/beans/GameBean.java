@@ -16,12 +16,12 @@ import javax.servlet.http.HttpServletRequest;
  * This class rocks.
  *
  * @author johnsmart
- */
+ */           
 @Named
 @SessionScoped
 public class GameBean implements Serializable {
 
-    private int rows = 3;
+    private int rows = 3; //lol
     private int columns = 3;
     private Universe universe;
     private Random randomGenerator = new Random();
