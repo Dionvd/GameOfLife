@@ -124,7 +124,7 @@ public class GameBean implements Serializable {
                 universe.setDeadCellAt(row, column);
             }
         }
-        return universe;
+        return universe; //test
     }
 
     private Universe universeInstanciatedFromClickedCells(final int rows,
@@ -139,7 +139,7 @@ public class GameBean implements Serializable {
             }
         }
         return universe;
-    }
+    }                             
 
     private boolean cellWasClickedAt(final int row,
             final int column,
