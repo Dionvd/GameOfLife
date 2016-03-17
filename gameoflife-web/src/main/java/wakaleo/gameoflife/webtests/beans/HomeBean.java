@@ -9,7 +9,7 @@ import javax.enterprise.context.RequestScoped;
 import javax.inject.Named;
 
 /**
-* This class rocks.
+* This class rocks.                  
 *
 * @author johnsmart
 */
@@ -19,6 +19,7 @@ public class HomeBean {
     public String index() {
         return "home";
     }
+    
     
     public String home() {
         return "home";
