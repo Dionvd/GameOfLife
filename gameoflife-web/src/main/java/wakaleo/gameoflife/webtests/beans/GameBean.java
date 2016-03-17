@@ -139,7 +139,7 @@ public class GameBean implements Serializable {
             }
         }
         return universe;
-    }
+    }                             
 
     private boolean cellWasClickedAt(final int row,
             final int column,
