@@ -24,7 +24,7 @@ public class GameBean implements Serializable {
     private int rows = 3; //lol
     private int columns = 3;
     private Universe universe;
-    private Random randomGenerator = new Random();
+    private Random randomGenerator = new Random();///////   
 
     public int getRows() {
         return rows;
